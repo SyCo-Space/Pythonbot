@@ -1,0 +1,1 @@
+worker: SyCo Bot.py
