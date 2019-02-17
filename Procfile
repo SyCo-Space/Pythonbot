@@ -1,1 +1,1 @@
-worker: syco Bot.py
+worker: SyCoBot.py
